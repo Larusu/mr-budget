@@ -3,9 +3,9 @@
     Mr. Budget
 </h1>
 
-Mr. Budget is a personal finance management web application that helps users track their income, expenses, and savings goals. This is a final project for **Web Design and Development 1**.
+**Mr. Budget** is a personal finance management web application that helps users track their income, expenses, and savings goals. This is a final project for **Web Design and Development 1**.
 
-## Features
+## ✨ Features
 
 - **User Authentication** - Secure login and registration system
 - **Dashboard** - Overview of financial health with visual charts
