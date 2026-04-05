@@ -1,6 +1,5 @@
 <h1>
-    <img src="./assets/images/piggy-bank.svg" alt="Mr. Budget logo" width="75" style="vertical-align: middle;" />
-    Mr. Budget
+    👛 Mr. Budget
 </h1>
 
 **Mr. Budget** is a personal finance management web application that helps users track their income, expenses, and savings goals. This is a final project for **Web Design and Development 1**.
